@@ -6,3 +6,4 @@
 3. [Negative transformation of an image using OpenCV](https://github.com/codebysumit/python-image-processing-notebooks/blob/master/Negative%20transformation%20of%20an%20image%20using%20OpenCV.ipynb)
 4. [Bringing Old Photo Back to Life By Microsoft Using PyTorch](https://github.com/codebysumit/python-image-processing-notebooks/blob/master/Bringing%20Old%20Photo%20Back%20to%20Life%20By%20Microsoft.ipynb)
 5. [Alpha Composite Of Two Images In Pillow](https://github.com/codebysumit/python-image-processing-notebooks/blob/master/Alpha%20Composite%20Of%20Two%20Images%20In%20Pillow.ipynb)
+6. [GFPGAN inference inheritance blur photo](https://github.com/codebysumit/python-image-processing-notebooks/blob/master/GFPGAN_inference.ipynb)
